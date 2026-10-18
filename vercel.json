@@ -25,8 +25,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://unityshop-eight.vercel.app",
-        "ASSET_URL": "https://unityshop-eight.vercel.app",
+        "APP_URL": "https://lemburan-git-main-ark-5a5f.vercel.app/",
+        "ASSET_URL": "https://lemburan-git-main-ark-5a5f.vercel.app/",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
